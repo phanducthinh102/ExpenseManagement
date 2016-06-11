@@ -1,0 +1,20 @@
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.AddBudget.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.AddIncome.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Budget.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Income.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Statistics.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Menu.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Properties.Resources.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\Expense Management.csproj.GenerateResource.Cache
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Expenses.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Release\Expense Management.exe
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Release\Expense Management.pdb
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\Expense Management.exe
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\Expense Management.pdb
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.EditBudget.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.EditIncome.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.EditExpenses.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Release\ExpenseManagement.mdf
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Release\ExpenseManagement_log.ldf
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Release\Expense Management.exe.config
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\Expense Management.csprojResolveAssemblyReference.cache

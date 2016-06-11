@@ -1,0 +1,22 @@
+C:\Users\Phan\AppData\Local\Temporary Projects\QuanLyChiTieu\bin\Release\QuanLyChiTieu.exe
+C:\Users\Phan\AppData\Local\Temporary Projects\QuanLyChiTieu\bin\Release\QuanLyChiTieu.pdb
+C:\Users\Phan\AppData\Local\Temporary Projects\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Form1.resources
+C:\Users\Phan\AppData\Local\Temporary Projects\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Properties.Resources.resources
+C:\Users\Phan\AppData\Local\Temporary Projects\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.csproj.GenerateResource.Cache
+C:\Users\Phan\AppData\Local\Temporary Projects\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.exe
+C:\Users\Phan\AppData\Local\Temporary Projects\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.pdb
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.exe
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.pdb
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Release\QuanLyChiTieu.exe
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Release\QuanLyChiTieu.pdb
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.AddChiTieu.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Properties.Resources.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.csproj.GenerateResource.Cache
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Menu.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.csprojResolveAssemblyReference.cache
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Statistics.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Release\QuanLyChiTieu.exe.config
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.AddIncome.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Budget.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.Income.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Release\QuanLyChiTieu.AddBudget.resources

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ExpenseManagementModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ExpenseManagementModelStoreContainer">
+    <EntitySet Name="Money" EntityType="ExpenseManagementModel.Store.Money" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="MoneyForSavings" EntityType="ExpenseManagementModel.Store.MoneyForSavings" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SpendMoney" EntityType="ExpenseManagementModel.Store.SpendMoney" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Money">
+    <Key>
+      <PropertyRef Name="Month" />
+    </Key>
+    <Property Name="Money" Type="int" Nullable="false" />
+    <Property Name="Month" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MoneyForSavings">
+    <Key>
+      <PropertyRef Name="IDSaving" />
+    </Key>
+    <Property Name="IDSaving" Type="datetime" Nullable="false" />
+    <Property Name="MoneyFSaving" Type="int" Nullable="false" />
+    <Property Name="Month" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SpendMoney">
+    <Key>
+      <PropertyRef Name="IDExpense" />
+    </Key>
+    <Property Name="IDExpense" Type="datetime" Nullable="false" />
+    <Property Name="Name" Type="nchar" Nullable="false" MaxLength="100" />
+    <Property Name="Date" Type="datetime" Nullable="false" />
+    <Property Name="Money" Type="int" Nullable="false" />
+  </EntityType>
+</Schema>

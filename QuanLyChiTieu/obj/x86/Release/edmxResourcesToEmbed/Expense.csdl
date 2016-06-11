@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ExpenseManagementModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="ExpenseManagementEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="SpendMoney" EntityType="ExpenseManagementModel.SpendMoney" />
+    <EntitySet Name="MoneyForSavings" EntityType="ExpenseManagementModel.MoneyForSavings" />
+    <EntitySet Name="Money" EntityType="ExpenseManagementModel.Money" />
+  </EntityContainer>
+  <EntityType Name="SpendMoney">
+    <Key>
+      <PropertyRef Name="IDExpense" />
+    </Key>
+    <Property Type="DateTime" Name="IDExpense" Nullable="false" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="30" FixedLength="true" Unicode="true" />
+    <Property Type="Int32" Name="Money" Nullable="false" />
+    <Property Type="DateTime" Name="Date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="MoneyForSavings">
+    <Key>
+      <PropertyRef Name="IDSaving" />
+    </Key>
+    <Property Type="DateTime" Name="IDSaving" Nullable="false" />
+    <Property Type="Int32" Name="Month" Nullable="false" />
+    <Property Type="Int32" Name="MoneyFSaving" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Money">
+    <Key>
+      <PropertyRef Name="Month" />
+    </Key>
+    <Property Type="Int32" Name="Money1" Nullable="false" />
+    <Property Type="Int32" Name="Month" Nullable="false" />
+  </EntityType>
+</Schema>

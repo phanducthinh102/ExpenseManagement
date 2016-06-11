@@ -1,0 +1,7 @@
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Debug\QuanLyChiTieu.exe
+E:\QuanLyChiTieu\QuanLyChiTieu\bin\Debug\QuanLyChiTieu.pdb
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Debug\QuanLyChiTieu.AddChiTieu.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Debug\QuanLyChiTieu.Properties.Resources.resources
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Debug\QuanLyChiTieu.csproj.GenerateResource.Cache
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Debug\QuanLyChiTieu.exe
+E:\QuanLyChiTieu\QuanLyChiTieu\obj\x86\Debug\QuanLyChiTieu.pdb

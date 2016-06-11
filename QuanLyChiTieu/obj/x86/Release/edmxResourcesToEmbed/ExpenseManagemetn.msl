@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ExpenseManagementModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Money">
+      <EntityTypeMapping TypeName="ExpenseManagementModel.Money">
+        <MappingFragment StoreEntitySet="Money">
+          <ScalarProperty Name="Money1" ColumnName="Money" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="MoneyForSavings">
+      <EntityTypeMapping TypeName="ExpenseManagementModel.MoneyForSavings">
+        <MappingFragment StoreEntitySet="MoneyForSavings">
+          <ScalarProperty Name="IDSaving" ColumnName="IDSaving" />
+          <ScalarProperty Name="MoneyFSaving" ColumnName="MoneyFSaving" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SpendMoney">
+      <EntityTypeMapping TypeName="ExpenseManagementModel.SpendMoney">
+        <MappingFragment StoreEntitySet="SpendMoney">
+          <ScalarProperty Name="IDExpense" ColumnName="IDExpense" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Money" ColumnName="Money" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
